@@ -1,2 +1,2 @@
 # uniapp-async-subpackage
-Uniapp包体积优化
+Uniapp包体积优化demo
